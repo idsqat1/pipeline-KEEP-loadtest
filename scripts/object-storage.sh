@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ARTIFACT_SIZE=200        # the size in MB of the artifact to upload and download.
 BuildNumber=1
 
